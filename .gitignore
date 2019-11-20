@@ -6,6 +6,9 @@
 *.ko
 *.obj
 *.elf
+*.crf
+/Obj
+/Drivers
 
 # Linker output
 *.ilk
